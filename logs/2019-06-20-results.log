@@ -1,0 +1,4 @@
+2019-06-20 16:37:14 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-20 16:37:26 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking12991"}
+2019-06-20 16:38:14 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking12991"}
+2019-06-20 16:38:21 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking129921"}

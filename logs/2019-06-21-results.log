@@ -1,0 +1,21 @@
+2019-06-21 18:03:41 error: Fail booking ->SequelizeDatabaseError: Table 'ems_xjp.sys_city_costs' doesn't exist
+2019-06-21 18:06:01 error: Fail booking ->ReferenceError: res is not defined
+2019-06-21 18:25:31 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking129921"}
+2019-06-21 18:26:01 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking123"}
+2019-06-21 19:04:18 error: Fail booking ->TypeError: Cannot read property 'drawer_number' of undefined
+2019-06-21 19:16:05 info: create Locker Station->{}
+2019-06-21 19:16:11 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking123"}
+2019-06-21 19:16:59 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking123"}
+2019-06-21 19:24:23 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking123"}
+2019-06-21 19:24:31 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:25:55 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:26:42 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:26:52 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:27:12 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:27:54 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:28:58 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:29:06 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"Booking1231"}
+2019-06-21 19:31:09 error: Fail booking ->TypeError: Cannot read property 'drawer_number' of undefined
+2019-06-21 19:32:41 error: Fail booking ->TypeError: Cannot read property 'drawer_number' of undefined
+2019-06-21 19:37:06 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"111","transaction_id":"888","tracking_no":"Booking12311"}
+2019-06-21 19:38:29 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"111","transaction_id":"888","tracking_no":"Booking12311"}

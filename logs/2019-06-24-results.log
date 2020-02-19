@@ -1,0 +1,14 @@
+2019-06-24 07:05:36 info: Booking request->{}
+2019-06-24 07:07:03 info: Booking request->{"haha":"hahaww"}
+2019-06-24 18:38:31 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:39:23 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:40:18 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:43:14 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:43:19 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:43:45 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:44:05 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:44:19 error: No Locker station ->SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TESTRK001""' at line 1
+2019-06-24 18:49:52 error: Login Failed->Error: Request failed with status code 400
+2019-06-24 18:51:02 error: Login Failed->Error: Request failed with status code 400
+2019-06-24 18:52:11 error: Login Failed->Error: Request failed with status code 400
+2019-06-24 18:52:31 error: Login Failed->Error: Request failed with status code 400

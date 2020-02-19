@@ -1,0 +1,4 @@
+2019-06-18 17:08:05 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"12234","transaction_id":"888","tracking_no":"testimdabooking"}
+2019-06-18 17:08:05 error: Unknown column 'item_desc' in 'field list'
+2019-06-18 17:08:14 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking"}
+2019-06-18 17:08:14 error: Unknown column 'item_desc' in 'field list'

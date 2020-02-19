@@ -1,0 +1,18 @@
+2019-06-07 18:08:53 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda0"}
+2019-06-07 18:08:53 info: Fail booking->Error: Can't set headers after they are sent.
+2019-06-07 18:09:01 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda01"}
+2019-06-07 18:09:01 info: Fail booking->ReferenceError: data is not defined
+2019-06-07 18:09:35 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda01"}
+2019-06-07 18:09:35 info: Fail booking->Error: Can't set headers after they are sent.
+2019-06-07 18:09:43 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011"}
+2019-06-07 18:10:53 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda0111"}
+2019-06-07 18:21:42 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda0111"}
+2019-06-07 18:21:42 info: Fail booking->Error: Can't set headers after they are sent.
+2019-06-07 18:21:48 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda01111"}
+2019-06-07 18:22:03 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011111"}
+2019-06-07 18:22:50 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda0111111"}
+2019-06-07 18:23:54 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda01111112"}
+2019-06-07 18:27:26 info: Booking request->{"receiver_name":"test","parcel_length":"11","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011111122"}
+2019-06-07 18:28:54 info: Booking request->{"receiver_name":"test","parcel_length":"1221","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011111122"}
+2019-06-07 18:37:04 info: Booking request->{"receiver_name":"test","parcel_length":"1221","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011111122"}
+2019-06-07 18:38:31 info: Booking request->{"receiver_name":"test","parcel_length":"1221","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimda011111122"}

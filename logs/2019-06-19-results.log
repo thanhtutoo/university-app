@@ -1,0 +1,15 @@
+2019-06-19 10:09:38 info: update transaction ->{}
+2019-06-19 10:10:26 info: update transaction ->{}
+2019-06-19 10:21:03 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking"}
+2019-06-19 10:21:03 error: Unknown column 'item_desc' in 'field list'
+2019-06-19 10:22:01 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking"}
+2019-06-19 10:23:02 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking"}
+2019-06-19 10:23:08 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1"}
+2019-06-19 10:24:04 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking12"}
+2019-06-19 10:25:27 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking129"}
+2019-06-19 10:26:39 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-19 10:28:41 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-19 10:29:48 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-19 10:30:20 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-19 10:32:01 info: Booking request->{"receiver_name":"test","parcel_length":"2","parcel_height":"6","parcel_width":"1","locker_station_id":"1234","transaction_id":"888","tracking_no":"testimdabooking1299"}
+2019-06-19 11:20:47 error: req is not defined
